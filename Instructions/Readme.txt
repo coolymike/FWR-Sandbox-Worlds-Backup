@@ -5,7 +5,7 @@ Rename the TXT to "channelbackup.txt"
 Open and re-save channelbackup.txt as ANSI instead of UTF-8 using Notepad
 Rename the HTML to "html channel backup.html"
 Put both files next to this readme
-Remove the contents of the "SandboxWorlds" directory next to this readme
+Create an empty dir "SandboxWorlds" next to this readme
 Launch "ExtractFromDiscordExtracterFile.py"
 Copy the list it prints
 Replace the linklist variable in "ReplaceHTMLLinks.py" with the copied list
