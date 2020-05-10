@@ -3,7 +3,7 @@ Backup of all the files in FWR Discord #sandbox-worlds https://htmlpreview.githu
 
 Getting this screen?:
 
-![Screenshot of FWR file](https://raw.githubusercontent.com/coolymike/FWR-Sandbox-Worlds-Backup/master/image.png)?
+![Screenshot of FWR file](https://raw.githubusercontent.com/coolymike/FWR-Sandbox-Worlds-Backup/master/image.png)
 * Press CTRL+S
 * Select "All Files" at the bottom (Not Text Document!)
 * Remove the ".txt" from the end of the filename
