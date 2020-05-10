@@ -9,6 +9,7 @@ Create an empty dir "SandboxWorlds" next to this readme
 Launch "ExtractFromDiscordExtracterFile.py"
 Copy the list it prints
 Replace the linklist variable in "ReplaceHTMLLinks.py" with the copied list
+Replace the pathprefix variable in ReplaceHTMLLinks.py with where the SandboxWorlds directory is stored (either local or online) 
 Launch "ReplaceHTMLLinks.py"
 Upload "Channel Backup.html" to the github repo (Using Firefox, Not Brave!)
 Upload the content of the SandboxWorlds directory to the github repo (in the directory SandboxWorlds, USE FIREFOX!! NOT BRAVE!!, in chunks of 100 files)
