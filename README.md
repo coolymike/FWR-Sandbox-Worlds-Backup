@@ -10,3 +10,5 @@ Getting this screen?:
 * Select "All Files" at the bottom (Not Text Document!)
 * Remove the ".txt" from the end of the filename
 * Click Save
+
+Last Updated: 5/31/2020
